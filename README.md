@@ -1,5 +1,4 @@
-# Add-to-Cart-Task-Using-Routers
-
+# E-Commerce Add to Cart Application
 
 This is a simple E-commerce application built with ReactJS, React Router, and Tailwind CSS. It demonstrates product listing, a dynamic shopping cart, and basic routing functionalities, fetching product data from the Fake Store API.
 
